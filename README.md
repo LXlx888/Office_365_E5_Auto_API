@@ -1,5 +1,3 @@
-# Office_365_E5_Auto_API
-Victor COPY
 # AutoApiSR-模仿人为开发版
 
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
